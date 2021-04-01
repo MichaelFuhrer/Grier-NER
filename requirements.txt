@@ -1,0 +1,5 @@
+spacy>=3.0.0
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0.tar.gz#egg=en_core_web_sm
+requests==2.25.1
+sortedcontainers==2.3.0
+beautifulsoup4==4.9.3
