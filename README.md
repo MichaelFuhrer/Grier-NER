@@ -119,7 +119,10 @@ rewritten, I created a comprehensive test document to test the base and edge cas
   
 Further cleaned up code and documentation for delivery. Currently encountering an error when trying to download the 
 accurate, _trf pipelines from spaCy. The error seems to be a result of a missing *caffe2* package in my python 
-interpreter. Investigating ways to resolve the error, but the -a flag will have to be untested until it is resolved.
+interpreter. Investigating ways to resolve the error, but the -a flag will have to be untested until it is resolved.  
+  
+Finalized project files for review, but will continue to try to fix _trf pipeline installation in my environment for 
+testing prior to deadline.  
 ## Test Log
 ### Unit Tests  
 Note: scaPy tends to cause unittests to raise ResourceWarnings; these do not hamper the tests' accuracy 
@@ -259,4 +262,4 @@ proper nouns.~~ ✓
   langauge model.~~ ✓
 - Replace SortedList with a custom sorted list that uses binary search/insert to remove dependency on sortedcontainers
 and likely improve computation time. (Low priority)
-- ~~Clean up input parsing behavior in *ner_fuhrer.py* for readability.~~
+- ~~Clean up input parsing behavior in *ner_fuhrer.py* for readability.~~ ✓
